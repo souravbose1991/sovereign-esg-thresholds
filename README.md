@@ -40,7 +40,12 @@ To reproduce the methodology and generate the exact figures and loss-differentia
 ## Citation
 If you utilise this code or methodology in your own research, please cite the accompanying manuscript:
 
-Bose, Sourav, Bouraoui, Taoufik (2026). Beyond Greenwashing: Algorithmic Resilience and the Non-Linear Governance Premium in Sovereign Capital Flows. [Journal Name - Pending Publication].
+@article{bose2026beyond,
+  title={Beyond Greenwashing: Algorithmic Resilience and the Non-Linear Governance Premium in Sovereign Capital Flows},
+  author={Bose, Sourav and Bouraoui, Taoufik},
+  journal={Working Paper, Rennes School of Business},
+  year={2026}
+}
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
