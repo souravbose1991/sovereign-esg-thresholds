@@ -36,7 +36,6 @@ To reproduce the methodology and generate the exact figures and loss-differentia
 3. Launch Jupyter and execute Paper_1_notebook.ipynb sequentially (after adjusting the filepaths).
 
 
-
 ## Citation
 If you utilise this code or methodology in your own research, please cite the accompanying manuscript:
 
@@ -46,6 +45,7 @@ If you utilise this code or methodology in your own research, please cite the ac
   journal={Working Paper, Rennes School of Business},
   year={2026}
 }
+
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
