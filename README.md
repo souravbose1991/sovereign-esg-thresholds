@@ -34,3 +34,13 @@ To reproduce the methodology and generate the exact figures and loss-differentia
    pip install -r requirements.txt
 ```
 3. Launch Jupyter and execute Paper_1_notebook.ipynb sequentially (after adjusting the filepaths).
+
+
+
+## Citation
+If you utilise this code or methodology in your own research, please cite the accompanying manuscript:
+
+Bose, Sourav, Bouraoui, Taoufik (2026). Beyond Greenwashing: Algorithmic Resilience and the Non-Linear Governance Premium in Sovereign Capital Flows. [Journal Name - Pending Publication].
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
