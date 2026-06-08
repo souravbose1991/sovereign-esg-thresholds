@@ -7,6 +7,19 @@ Traditional macro-financial models frequently rely on linear econometric framewo
 
 By deploying a Bayesian-optimised Extreme Gradient Boosting (XGBoost) architecture coupled with dual Explainable AI (SHAP and LIME) and Mondrian Split-Conformal Prediction, this pipeline mathematically maps the discrete, asymmetric thresholds ("tipping points") that dictate sovereign macro-financial resilience during systemic shocks.
 
+## Repository Structure
+The entire empirical pipeline—from SEC data extraction to high-dimensional econometrics—is housed within a single, sequential Jupyter Notebook to ensure seamless top-to-bottom reproducibility.
+
+```text
+├── data/
+│   ├── Worldwide_Governance_Indicators_Extract/
+|   │   ├── wgi_data.csv
+├── Paper_1_notebook.ipynb          # MASTER NOTEBOOK
+├── requirements.txt                # Python library dependencies
+└── README.md
+```
+
+
 ## Repository Contents
 * `Paper-1.ipynb`: The primary Jupyter Notebook containing the full execution pipeline.
   * **Phase 1:** Forward-chaining panel data split and lag ($t-1$) engineering.
@@ -15,6 +28,7 @@ By deploying a Bayesian-optimised Extreme Gradient Boosting (XGBoost) architectu
   * **Phase 4:** Dual XAI consensus testing (SHAP/LIME) and threshold mapping.
   * **Phase 5:** Mondrian Conformal Prediction calibration and adversarial noise injection.
 * `requirements.txt`: The exact Python library dependencies required to replicate the computational environment.
+
 
 ## Data Sources
 To comply with journal data availability requirements, the raw macroeconomic and institutional data supporting this pipeline are fully public. The feature space merges data from:
