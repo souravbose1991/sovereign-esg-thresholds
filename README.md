@@ -1,5 +1,8 @@
 # Sovereign ESG Thresholds: Non-Linear Capital Flows & Machine Learning
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+
 This repository contains the replication code, feature engineering pipeline, and machine learning architectures for the manuscript investigating the non-linear transmission mechanisms between sovereign Environmental, Social, and Governance (ESG) pillars and Foreign Direct Investment (FDI) inflows.
 
 ## Overview
