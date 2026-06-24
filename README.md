@@ -43,7 +43,7 @@ To reproduce the methodology and generate the exact figures and loss-differentia
 
 1. Clone this repository:
 ```bash
-   git clone [https://github.com/](https://github.com/)souravbose1991/sovereign-esg-thresholds.git
+   git clone sovereign-esg-thresholds.git
    cd sovereign-esg-thresholds
 ```
 2. Install the required dependencies:
@@ -55,13 +55,6 @@ To reproduce the methodology and generate the exact figures and loss-differentia
 
 ## Citation
 If you utilise this code or methodology in your own research, please cite the accompanying manuscript:
-
-<!-- @article{bose2026beyond,
-  title={Beyond Greenwashing: Algorithmic Resilience and the Non-Linear Governance Premium in Sovereign Capital Flows},
-  author={Bose, Sourav and Bouraoui, Taoufik},
-  journal={Working Paper, Rennes School of Business},
-  year={2026}
-} -->
 
 
 ## License
